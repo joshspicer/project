@@ -5,10 +5,10 @@
       "resolved": "ghcr.io/devcontainers/features/aws-cli@sha256:4b67518ec3733df53110c3caf7b9d6007363d1b5aaae2f1fa27f18ad0cc9b2b9",
       "integrity": "sha256:4b67518ec3733df53110c3caf7b9d6007363d1b5aaae2f1fa27f18ad0cc9b2b9"
     },
-    "ghcr.io/devcontainers/features/common-utils:1.1": {
-      "version": "1.1.6",
-      "resolved": "ghcr.io/devcontainers/features/common-utils@sha256:9c4df1272d0a2ad2237c11568cb3ba68a2e8e89bc5519b5ec5e0ab9146600cdf",
-      "integrity": "sha256:9c4df1272d0a2ad2237c11568cb3ba68a2e8e89bc5519b5ec5e0ab9146600cdf"
+    "ghcr.io/devcontainers/features/common-utils:2.4": {
+      "version": "2.4.0",
+      "resolved": "ghcr.io/devcontainers/features/common-utils@sha256:cd9c4413255c3b71fb716e63ee2df245c81c7262b858cf77406a68c80d09f12e",
+      "integrity": "sha256:cd9c4413255c3b71fb716e63ee2df245c81c7262b858cf77406a68c80d09f12e"
     },
     "ghcr.io/devcontainers/features/docker-in-docker:1": {
       "version": "1.0.9",
