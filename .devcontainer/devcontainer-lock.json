@@ -10,10 +10,10 @@
       "resolved": "ghcr.io/devcontainers/features/common-utils@sha256:9c4df1272d0a2ad2237c11568cb3ba68a2e8e89bc5519b5ec5e0ab9146600cdf",
       "integrity": "sha256:9c4df1272d0a2ad2237c11568cb3ba68a2e8e89bc5519b5ec5e0ab9146600cdf"
     },
-    "ghcr.io/devcontainers/features/docker-in-docker:1": {
-      "version": "1.0.9",
-      "resolved": "ghcr.io/devcontainers/features/docker-in-docker@sha256:b4c04ba88371a8ec01486356cce10eb9fe8274627d8d170aaec87ed0d333080d",
-      "integrity": "sha256:b4c04ba88371a8ec01486356cce10eb9fe8274627d8d170aaec87ed0d333080d"
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "version": "2.9.0",
+      "resolved": "ghcr.io/devcontainers/features/docker-in-docker@sha256:ef0e9741aae8089cc29290f6ac0020ade3904732bfb4bbc2e2b7aaee833a5a7d",
+      "integrity": "sha256:ef0e9741aae8089cc29290f6ac0020ade3904732bfb4bbc2e2b7aaee833a5a7d"
     },
     "ghcr.io/devcontainers/features/ruby:1.0.8": {
       "version": "1.0.8",
