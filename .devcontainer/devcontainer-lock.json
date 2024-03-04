@@ -15,10 +15,10 @@
       "resolved": "ghcr.io/devcontainers/features/docker-in-docker@sha256:1179b7b5703bd754fb32982a163f3c23add38c8682db394927e9061a2e0b79d4",
       "integrity": "sha256:1179b7b5703bd754fb32982a163f3c23add38c8682db394927e9061a2e0b79d4"
     },
-    "ghcr.io/devcontainers/features/ruby:1.0.8": {
-      "version": "1.0.8",
-      "resolved": "ghcr.io/devcontainers/features/ruby@sha256:7e1d1b48e66c1ee57abcf555252e71c96c9b0ec101c77572b5aebce1a12c0689",
-      "integrity": "sha256:7e1d1b48e66c1ee57abcf555252e71c96c9b0ec101c77572b5aebce1a12c0689"
+    "ghcr.io/devcontainers/features/ruby:1.2.0": {
+      "version": "1.2.0",
+      "resolved": "ghcr.io/devcontainers/features/ruby@sha256:434716e3ccd1f4d59846145ab7cec20e58219ed10b2d73ed49421c0eef9be803",
+      "integrity": "sha256:434716e3ccd1f4d59846145ab7cec20e58219ed10b2d73ed49421c0eef9be803"
     }
   }
 }
